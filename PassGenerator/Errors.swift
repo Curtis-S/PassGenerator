@@ -10,7 +10,7 @@ import Foundation
 
 //errors
 
-enum EmployeeCreationError: Error {
+enum EntrantCreationError: Error {
     case missingFirstName
     case missingLastName
     case missingCityName

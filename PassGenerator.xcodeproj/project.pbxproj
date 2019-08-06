@@ -16,6 +16,7 @@
 		5D25D40122CBB5590051CBCC /* PassGeneratorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D25D40022CBB5590051CBCC /* PassGeneratorUITests.swift */; };
 		5D25D40F22CBB5F70051CBCC /* PassGeneratorModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D25D40E22CBB5F70051CBCC /* PassGeneratorModels.swift */; };
 		5D25D41122D4EDD30051CBCC /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D25D41022D4EDD30051CBCC /* Errors.swift */; };
+		5DD0AC1E22F7226C006C8994 /* PassViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD0AC1D22F7226C006C8994 /* PassViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		5D25D40222CBB5590051CBCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D25D40E22CBB5F70051CBCC /* PassGeneratorModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassGeneratorModels.swift; sourceTree = "<group>"; };
 		5D25D41022D4EDD30051CBCC /* Errors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Errors.swift; sourceTree = "<group>"; };
+		5DD0AC1D22F7226C006C8994 /* PassViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				5D25D3EC22CBB5590051CBCC /* Info.plist */,
 				5D25D40E22CBB5F70051CBCC /* PassGeneratorModels.swift */,
 				5D25D41022D4EDD30051CBCC /* Errors.swift */,
+				5DD0AC1D22F7226C006C8994 /* PassViewController.swift */,
 			);
 			path = PassGenerator;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				5D25D41122D4EDD30051CBCC /* Errors.swift in Sources */,
 				5D25D3E322CBB5580051CBCC /* ViewController.swift in Sources */,
 				5D25D40F22CBB5F70051CBCC /* PassGeneratorModels.swift in Sources */,
+				5DD0AC1E22F7226C006C8994 /* PassViewController.swift in Sources */,
 				5D25D3E122CBB5580051CBCC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

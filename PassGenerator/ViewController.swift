@@ -649,7 +649,7 @@ class ViewController: UIViewController {
         default:
             createEntrant()
             if entrant == nil {
-                showAlertWith(title: "no entrant", message: "somethign went wrong with entrant creation please ensure all fields are filled in ")
+                showAlertWith(title: "no entrant", message: "something went wrong with entrant creation please ensure all fields are filled in ")
             }
             self.performSegue(withIdentifier: "pass", sender: self)
         }
